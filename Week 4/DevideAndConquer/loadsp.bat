@@ -1,0 +1,1 @@
+sp svg <input.txt >result.svg
